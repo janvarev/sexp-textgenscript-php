@@ -7,6 +7,8 @@ Can be used for:
 * serializing S-expressions
 * text generation using TextGen Script (DSL for text generation)
 
+Require PHP 5.0 and above.
+
 # Use
 
 ```
