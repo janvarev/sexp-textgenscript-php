@@ -1,11 +1,11 @@
 # sexp-textgenscript-php
 
-Small S-expression based DSL for text generation on PHP
+Small PHP library for working with S-expression and small S-based DSL for text generation
 
 Can be used for:
 * parsing S-expressions
 * serializing S-expressions
-* text generation using TextGen Script
+* text generation using TextGen Script (DSL for text generation)
 
 # Use
 
