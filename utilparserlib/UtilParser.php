@@ -10,8 +10,8 @@ class UtilParser {
     
     function UtilParser() {
            
-           require_once 'Sexp.php';
-		   require_once 'FileTags.php';
+           require_once dir(__FILE__).'/Sexp.php';
+		   require_once dir(__FILE__).'/FileTags.php';
            $this->sexp_parser = new Sexp();
            $this->sexp_parser->setPrettyPrint(false);
            

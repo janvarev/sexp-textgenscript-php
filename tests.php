@@ -10,7 +10,7 @@ function testAssertEqual($name, $startVal, $endVal) {
 		return $st;
 }
 
-require_once('UtilParser.php');
+require_once('utilparserlib/UtilParser.php');
 $srvParser = new UtilParser(); /* @var $srvParser UtilParser */
 
 // ------------ tests ----------------
